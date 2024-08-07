@@ -2,6 +2,12 @@ const { faker } = require("@faker-js/faker");
 
 const fs = require("node:fs");
 
+function randomFunctionGenerator(arr) {
+	return () => {
+		return arr[Math.floor(Math.random() * arr.length)];
+	};
+}
+
 function getRandomAccountType() {
 	const accountTypes = ["free", "gold", "platinum", "silver"];
 	return accountTypes[Math.floor(Math.random() * accountTypes.length)];
@@ -136,28 +142,77 @@ function createRandomSubscriptionBills() {
 	});
 }
 
+const getRandomPlatform = randomFunctionGenerator(["windows", "linux", "mac"]);
+
+function getRandomDeviceName() {
+	const brands = [
+		"LG",
+		"Samsung",
+		"Sony",
+		"Panasonic",
+		"Philips",
+		"Toshiba",
+		"Vizio",
+	];
+	const deviceTypes = [
+		"TV",
+		"Smartphone",
+		"Tablet",
+		"Laptop",
+		"Monitor",
+		"Smartwatch",
+	];
+
+	const randomBrand = brands[Math.floor(Math.random() * brands.length)];
+	const randomDeviceType =
+		deviceTypes[Math.floor(Math.random() * deviceTypes.length)];
+
+	return `${randomBrand} ${randomDeviceType}`;
+}
+
+const getRandomSecuritySignal = randomFunctionGenerator([
+	"Secure",
+	"At Risk",
+	"Compromised",
+	"Under Investigation",
+	"Unknown",
+	"Safe",
+	"Warning",
+	"Critical",
+]);
+
+const getRandomDeviceManagement = randomFunctionGenerator([
+	"personal",
+	"family",
+	"admin",
+	"organization",
+]);
+
 function createRandomDeviceActivity() {
 	// biome-ignore lint/complexity/noForEach: <explanation>
-	subs.forEach((sub) => {
-		const created = faker.date.past();
-		const startDate = faker.date.between({ from: created, to: new Date() });
-		communications.push({
-			subscriptionID: faker.string.uuid(),
-			subscriberID: sub.subscriberId,
-			nextChargeDate: faker.date.future(),
-			expiryDate: faker.date.future(),
-			trialPeriod: faker.date.future(),
-			created: created,
-			startDate: startDate,
-			amount: Number(faker.finance.amount()),
-			planName: sub.accountType,
-			frequency: getRandomFrequency(),
-			customerEmail: sub.email,
-			brand: faker.finance.creditCardIssuer(),
-			cardNumber: faker.finance.creditCardNumber(),
-			status: getRandomStatus(),
-		});
+	subscriptions.forEach((sub) => {
+		const randomNumber = Math.floor(5 + Math.random() * 20);
+		for (let i = 0; i <= randomNumber; i++) {
+			communications.push({
+				deviceActivityId: faker.string.uuid(),
+				subscriptionId: sub.subscriptionID,
+				subscriberId: sub.subscriberID,
+				// deviceManagement: getRandomDeviceManagement(),
+				lastLogin: faker.date.past(),
+				activity: faker.number.int({ min: 0, max: 100 }),
+				screenTime: faker.number.int({ min: 10, max: 1000 }),
+				description: faker.company.catchPhrase(),
+				// platform: getRandomPlatform(),
+				// securitySignal: getRandomSecuritySignal(),
+				fleetDistribution: faker.number.int({ min: 10, max: 20000 }),
+				// accessStatus: getRandomStatus(),
+				offTime: faker.number.int({ min: 10, max: 1000 }),
+				device: getRandomDeviceName(),
+			});
+		}
 	});
 }
 
-fs.writeFileSync("./subscription-bill.json", JSON.stringify(communications));
+createRandomDeviceActivity();
+
+fs.writeFileSync("./device-activity.json", JSON.stringify(communications));
