@@ -1,0 +1,802 @@
+[
+	{
+		"subscriptionID": "96836d34-e84b-4ea2-859b-b6fa97b32758",
+		"billId": "bf89ead0-5af2-452e-8e24-4c88c4b35d48",
+		"date": "2025-04-09T06:29:15.233Z",
+		"amount": 252.15,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "40f630e3-0cb2-473e-a9b2-b3441890bd3e",
+		"billId": "c8f5db9f-ac6d-4d0c-a088-a177dd143f53",
+		"date": "2025-03-19T08:45:30.245Z",
+		"amount": 273.08,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "efd7e66f-b534-4d75-93d3-733c35c95338",
+		"billId": "83bfef3f-2a5b-4c0f-b88e-cb5b6cb6651e",
+		"date": "2024-10-14T17:01:52.727Z",
+		"amount": 350.88,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "8551f331-e8b0-4839-82d6-a8e7b60dc23a",
+		"billId": "961e6e31-e3c1-4b99-9977-0ba6b5d03dbd",
+		"date": "2024-09-15T19:42:37.557Z",
+		"amount": 953.52,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "eb87885a-21ed-4aa6-8313-fcc268010877",
+		"billId": "6a4edd2e-e6c4-401a-a748-037abb702ce6",
+		"date": "2025-02-02T12:49:13.020Z",
+		"amount": 547.34,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "713857ce-93ef-4f38-aca1-f71e83a874fc",
+		"billId": "c9ad26df-b9ba-495b-b6ef-634bb57b876f",
+		"date": "2025-06-19T17:22:53.978Z",
+		"amount": 203.68,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "0c9a2cba-9230-4fef-86a3-6144ee8f49b8",
+		"billId": "263fcecd-4fd3-445d-8ef6-b4ecdab16ec3",
+		"date": "2025-02-08T06:20:31.451Z",
+		"amount": 955.23,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "b3d58e24-36df-4a79-80db-8eb6d5b162b2",
+		"billId": "2b99e1ba-877f-4151-8b2c-b6ea1201e8b1",
+		"date": "2024-10-30T09:28:10.264Z",
+		"amount": 678.46,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "2a84abdb-7587-4eda-a607-888d438905b8",
+		"billId": "53d1929c-2d63-4573-a733-2b87940b01c3",
+		"date": "2024-08-22T20:21:29.986Z",
+		"amount": 670.71,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "9a32b634-912b-4fa2-b101-73c5bf725ee3",
+		"billId": "6a0e8d4b-7bc6-4401-8269-428ac441e293",
+		"date": "2024-12-22T05:12:01.042Z",
+		"amount": 911.53,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "9b7fd8b6-32b4-4efa-94bd-0a8baa74ae9c",
+		"billId": "dd46eac8-514b-4021-b4e0-980f643619dc",
+		"date": "2024-08-13T00:51:09.970Z",
+		"amount": 818.43,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "5fe38826-fa83-4b72-a1cb-37766d73221a",
+		"billId": "36434d14-eca3-47e0-b96d-fffb43de116c",
+		"date": "2025-02-24T19:43:15.249Z",
+		"amount": 774.47,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "e25b52ef-57a5-425f-aee1-82d58aee04b3",
+		"billId": "4e8f328d-f2d9-4c04-a50b-39b31b893577",
+		"date": "2025-04-22T15:14:41.857Z",
+		"amount": 522.59,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "91493b0f-c502-418c-b434-e8187d80ef2d",
+		"billId": "8dc0463d-2dea-4a42-8cc4-3a63d361576e",
+		"date": "2025-04-27T18:43:29.775Z",
+		"amount": 149.08,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "3df49679-4a2c-4b7f-92fc-6283ad69bfc3",
+		"billId": "724ee17c-619e-4188-9b9c-1e4c5479a021",
+		"date": "2024-12-14T05:12:17.779Z",
+		"amount": 104.92,
+		"plan": "gold",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "36704fca-24be-4a36-a4e8-c36658a3e78d",
+		"billId": "3b851f71-3be6-453b-be11-276516368e02",
+		"date": "2025-02-27T19:44:45.825Z",
+		"amount": 972.71,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "c79711b7-39b6-4ba9-9ea2-872fb8bb8070",
+		"billId": "028d0b9d-e45d-41f8-a733-a112f0dd6d52",
+		"date": "2025-05-25T12:12:35.825Z",
+		"amount": 254.37,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "fe6e7164-d99a-4ed0-b89e-e76a06388d26",
+		"billId": "39d3f405-0773-4897-834a-33b5be689d3f",
+		"date": "2024-09-09T19:53:24.799Z",
+		"amount": 14.52,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "b217ce2a-fd65-47e6-a510-deab263892b1",
+		"billId": "f5575fd3-5d0c-41b4-bca0-bda01e2ee3c8",
+		"date": "2024-10-15T16:58:09.668Z",
+		"amount": 946.77,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "d825a337-3bdd-4cb0-9822-f0f1d3ed05f3",
+		"billId": "1df9080f-7801-4eea-af59-f71019013ee9",
+		"date": "2025-06-30T16:30:22.098Z",
+		"amount": 857.52,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "6fb24761-493a-469b-a444-83b01a09795b",
+		"billId": "0ee91764-6a84-4827-8f7d-74b58217698b",
+		"date": "2024-09-14T15:16:38.063Z",
+		"amount": 421.94,
+		"plan": "gold",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "6024af52-8995-4c83-8ba7-fbc3163f7a4d",
+		"billId": "af5e7456-babe-48e2-b41b-290213909b99",
+		"date": "2025-05-03T16:08:28.623Z",
+		"amount": 747.14,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "387af925-7930-4471-8ba7-097e8f53917c",
+		"billId": "91612478-7f6f-4d90-a4a7-a3a2953c000b",
+		"date": "2024-10-04T03:18:37.209Z",
+		"amount": 416.96,
+		"plan": "silver",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "b55be5d5-9cd8-4200-982b-6b2df393da5a",
+		"billId": "accb283f-c661-4113-bc35-4d13b0aa2fcd",
+		"date": "2025-03-25T08:20:05.446Z",
+		"amount": 6.26,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "0abc20c7-ba80-46d6-8041-70fca8ab2252",
+		"billId": "ccf2c15a-927b-4c56-b178-a177a3dc5d0d",
+		"date": "2025-03-02T05:42:48.227Z",
+		"amount": 348.14,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "ea6cc429-3c46-4a59-b0c3-4239588ced98",
+		"billId": "affa925a-0678-4c08-8189-f89ecce18e5d",
+		"date": "2024-12-18T17:09:14.280Z",
+		"amount": 713.99,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "97667b4a-f088-4d53-8d92-bde76bd08cad",
+		"billId": "094f0004-303d-4f76-9be0-756151ad3b01",
+		"date": "2025-04-25T18:32:07.014Z",
+		"amount": 943.58,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "6cb60bcf-d553-41e0-bc90-355e2a004fc4",
+		"billId": "2facd530-9eb7-4dc3-9b24-1fbba03dd222",
+		"date": "2025-02-14T12:39:22.044Z",
+		"amount": 829.69,
+		"plan": "silver",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "5235fce9-516e-4e6b-9cda-73df4febba9b",
+		"billId": "5dc73d40-cd3d-4a13-949e-884cef5004c8",
+		"date": "2025-03-28T07:34:12.283Z",
+		"amount": 672.75,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "3b77c7c2-8abf-44fa-9572-119ae8286804",
+		"billId": "43bae418-4ce3-43dc-bcb4-1720d40f5940",
+		"date": "2024-10-29T22:29:30.966Z",
+		"amount": 308.75,
+		"plan": "silver",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "6fd29aa9-c851-4477-8b3e-61de578c4076",
+		"billId": "af18e629-d664-4ebc-bae3-a2b23a9000d9",
+		"date": "2025-02-06T14:52:28.324Z",
+		"amount": 554.31,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "62d92239-ee4c-45cd-966d-52c67e830072",
+		"billId": "74c2e64c-f424-4f9c-8d20-c9d8ea128864",
+		"date": "2025-02-14T04:08:41.611Z",
+		"amount": 435.12,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "3ba7175f-33fb-4bbc-8d01-b84fe2afdc94",
+		"billId": "cdc90889-c689-4ec4-8f56-8c9cc035f862",
+		"date": "2025-03-26T14:31:00.603Z",
+		"amount": 364.67,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "29e5c4be-351b-4efd-8e64-af85fd503012",
+		"billId": "b986f0c2-2f4b-4d4f-a477-7678bd37ff19",
+		"date": "2024-10-19T12:03:27.742Z",
+		"amount": 679.58,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "a665105d-6855-4e16-9a03-7a5006526ddc",
+		"billId": "a00fb3c3-5242-440c-a5ac-ca37211a8842",
+		"date": "2024-09-01T15:03:00.125Z",
+		"amount": 495.32,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "1084e668-adf4-4249-a647-a7b51cd68660",
+		"billId": "98e7f178-21b6-4688-87fb-da0072cc8029",
+		"date": "2024-09-17T03:54:53.453Z",
+		"amount": 809.98,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "9bc41399-8365-4131-93ea-6b2e9bef7e43",
+		"billId": "feffd350-ebb3-4d13-af82-dc8f41f60a91",
+		"date": "2025-02-09T20:38:47.547Z",
+		"amount": 742.12,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "c3ec699d-8f6f-4798-b05a-58b79faff3ca",
+		"billId": "94b74082-e2ba-42ff-b9e1-c0db36f81c95",
+		"date": "2025-03-25T12:46:19.782Z",
+		"amount": 857.7,
+		"plan": "gold",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "e45132f0-b980-4f03-ba6a-372452973edc",
+		"billId": "b9a398e5-95f8-467a-b5d2-243331be65f5",
+		"date": "2025-04-25T07:22:48.137Z",
+		"amount": 19.25,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "2d0a910c-5d80-4c56-b040-99f39840ae90",
+		"billId": "f6ed6bde-cf47-4727-bdc6-4547461e6fc5",
+		"date": "2025-03-30T18:37:11.669Z",
+		"amount": 386.41,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "ed6667a4-4d13-423e-be06-98794b9d5377",
+		"billId": "5affa81f-f83a-4835-8109-b3eeb6781e78",
+		"date": "2025-05-29T06:29:15.603Z",
+		"amount": 696.55,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "06e0d65f-1679-4f5e-b375-1306a042a08f",
+		"billId": "e3e9687f-3c69-4d34-80ed-0583cd5e258c",
+		"date": "2025-06-06T14:25:50.158Z",
+		"amount": 154.07,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "6ccedd55-3bb0-4e69-8138-1db43342f191",
+		"billId": "6edb8629-9bf4-4d4f-9e4f-e5456988a104",
+		"date": "2024-09-24T07:36:21.999Z",
+		"amount": 403.76,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "bb556dd7-e92b-440c-87b1-1ffa70439e66",
+		"billId": "522b9241-da67-40a3-8ea7-5023bf3323de",
+		"date": "2025-01-29T03:16:42.600Z",
+		"amount": 599.61,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "69eefbef-7454-4d4d-9185-c500786ff214",
+		"billId": "057a3d47-e4b9-4f91-9cf6-2e4f4f5bc505",
+		"date": "2025-04-08T22:43:13.290Z",
+		"amount": 173.03,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "b4c6caa9-420d-4284-bbed-16e9f2c18428",
+		"billId": "5b333c07-c63e-42e9-9a6b-8cc15d1b5b3a",
+		"date": "2025-01-03T02:50:25.939Z",
+		"amount": 208.86,
+		"plan": "silver",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "ebaefe6c-3e90-447e-9be5-eb5f34e72758",
+		"billId": "31510e8b-515c-439d-ba99-a4385caf857f",
+		"date": "2024-12-22T14:52:46.120Z",
+		"amount": 638.61,
+		"plan": "silver",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "fbe96454-7504-4001-b920-4ca8198ab091",
+		"billId": "dec8c519-a2ff-4302-a9b3-9c0d17571ce6",
+		"date": "2025-01-04T03:09:04.333Z",
+		"amount": 376.28,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "fa702068-8052-4f0a-ad29-907433d0f6b6",
+		"billId": "8036b9e7-1a8c-48d8-81d0-c40874ec6e11",
+		"date": "2025-06-15T09:30:37.764Z",
+		"amount": 432.32,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "62326632-5f6e-4bc0-8bfe-0153eb7353eb",
+		"billId": "62a9c662-fbab-447a-8a70-124030853d33",
+		"date": "2024-10-11T23:58:37.355Z",
+		"amount": 616.27,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "b784ba7e-e751-431b-bbbb-48cab83c4886",
+		"billId": "c08ca297-4960-491b-97f6-b9151a0b8828",
+		"date": "2025-03-09T17:00:57.573Z",
+		"amount": 162.77,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "2bb6c402-5e86-4e7b-9cbd-1b711e409abd",
+		"billId": "368edffc-3a38-432b-b5cd-f3529f2e43f4",
+		"date": "2024-12-06T08:09:08.212Z",
+		"amount": 998.34,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "2032dc44-f6a3-484e-9856-107a8b0a606a",
+		"billId": "572bc2e5-2ab8-4f4a-9ed5-7174a4e38352",
+		"date": "2025-06-11T23:23:58.374Z",
+		"amount": 999.35,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "8468f36b-9cef-40e7-b7db-63e0fd21c2b6",
+		"billId": "6e375c3c-c093-4eed-a38f-bee1f4a22259",
+		"date": "2025-07-07T05:55:23.382Z",
+		"amount": 477.93,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "fda1ee85-c153-4018-8168-27955e288251",
+		"billId": "2643415b-594b-4026-ba49-f43278b8f7fd",
+		"date": "2024-09-20T18:42:42.763Z",
+		"amount": 923.6,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "487ac236-8703-4108-8eae-fd20e1d984db",
+		"billId": "8fd7c6cf-e3aa-4b9d-98e8-7f62ba701910",
+		"date": "2025-04-02T01:40:44.393Z",
+		"amount": 308.11,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "dc15630a-31d5-4d26-9282-d2b648c28571",
+		"billId": "016f1349-b946-4a25-ad1b-75ee6988532a",
+		"date": "2024-10-25T17:00:17.837Z",
+		"amount": 394.27,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "948fca24-7353-46f1-a179-4a011303e14f",
+		"billId": "e1f2e17a-e623-4995-9621-8578be6db6d4",
+		"date": "2025-07-12T03:36:56.244Z",
+		"amount": 953.94,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "6998ddee-96e0-4ad0-afeb-86d415655746",
+		"billId": "175cfcd9-ebab-4929-834e-99488a6ab2ad",
+		"date": "2025-07-23T06:07:22.226Z",
+		"amount": 191.01,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "3ef05af4-aa63-4080-951b-a1918aaac812",
+		"billId": "9c8162c6-d6c0-477b-90d0-78582758763d",
+		"date": "2024-09-29T22:03:40.199Z",
+		"amount": 447.48,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "13b9253b-a1bd-4692-a998-e3f19bb12627",
+		"billId": "0ef16dc0-bb7c-40ed-ad2e-3b2a20fddd62",
+		"date": "2025-02-25T23:46:52.521Z",
+		"amount": 301.13,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "e6701ed5-0ece-42ad-8398-bf763a585336",
+		"billId": "c3015d43-66f4-4196-927e-47fd97d79dc5",
+		"date": "2024-10-25T07:54:55.175Z",
+		"amount": 732.2,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "6fd8a0de-c962-4b75-b3d1-2b407327b700",
+		"billId": "517f8270-adfb-4ffb-8f61-82a59e3b2989",
+		"date": "2025-01-20T18:05:01.147Z",
+		"amount": 575.45,
+		"plan": "silver",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "74afb091-f1f4-4c56-8077-523c0084e2f2",
+		"billId": "ad1dfa3d-91ec-4612-954b-3ae8854b05bb",
+		"date": "2025-03-09T00:09:46.358Z",
+		"amount": 786.3,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "876da752-6f90-4699-8bec-98ff4920173b",
+		"billId": "63d5ba5b-446a-4e1f-874b-b92fef2af2e0",
+		"date": "2025-01-16T16:37:18.657Z",
+		"amount": 868.86,
+		"plan": "gold",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "1ab2c143-9a9e-48f4-ae33-10fab6c65778",
+		"billId": "f543a66d-ed4f-4b66-892e-2e18ba6d48d1",
+		"date": "2025-03-06T10:35:16.202Z",
+		"amount": 950.76,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "7bb8a914-764f-47e8-a9ce-8ab98833a7b9",
+		"billId": "ae7ffcde-def9-49b3-9be0-07fc430e10dc",
+		"date": "2024-12-19T06:35:34.728Z",
+		"amount": 376.76,
+		"plan": "gold",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "6df587de-d5ae-461c-a623-1437ba3ffd13",
+		"billId": "8c88bb74-19f3-4e97-bf37-77a6f5bdb4bb",
+		"date": "2025-03-19T05:37:51.003Z",
+		"amount": 26.49,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "509beab6-1450-42eb-839d-02c01b7c062b",
+		"billId": "e60e33d0-f1d0-4e96-aad4-47a89a227f84",
+		"date": "2025-05-12T14:16:46.293Z",
+		"amount": 712.12,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "548caf24-33ff-4f9f-9cf7-1be2e536440c",
+		"billId": "b5a86e93-7507-49cd-a157-432ea20cc462",
+		"date": "2025-01-19T01:03:01.460Z",
+		"amount": 341.26,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "0fc1084c-a839-4e7d-b571-ebceea0a9c80",
+		"billId": "d3bacd46-ddf2-4ec8-bafd-3fad3765bb85",
+		"date": "2024-12-21T13:58:24.614Z",
+		"amount": 282.9,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "a071ac26-2e1a-4a06-9292-f18a9780a078",
+		"billId": "ad1a4e96-435c-4fc0-8ed9-88bb6f5157b6",
+		"date": "2025-01-07T06:16:33.592Z",
+		"amount": 537.8,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "78b40af1-440b-43b1-b8f5-60c367c61a28",
+		"billId": "ba9b674f-c1a6-4f7b-9fc8-8e34c807279f",
+		"date": "2024-11-17T14:30:55.000Z",
+		"amount": 318.39,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "5ec650f0-e640-4f36-98fe-a71c3bea788a",
+		"billId": "f1552776-eb61-43a7-b0f9-1195adc4bcdf",
+		"date": "2025-05-18T13:09:49.344Z",
+		"amount": 119.33,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "6f5afa4f-207e-41dd-9092-513494eb9589",
+		"billId": "364a0bf2-9deb-40ed-bcb4-0bc24fbe2600",
+		"date": "2024-08-07T10:28:26.538Z",
+		"amount": 142.35,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "dde424ca-84ba-4894-8d0c-18a4c0cb6388",
+		"billId": "84e3f251-3b9e-40a5-8a20-b52b5ce5e698",
+		"date": "2025-02-26T01:09:27.610Z",
+		"amount": 786.34,
+		"plan": "gold",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "f21fb30e-888a-4122-9506-7c43e3f9100f",
+		"billId": "021fc100-801f-47b0-9d1f-ba5dbf2c9c81",
+		"date": "2024-09-05T14:43:10.462Z",
+		"amount": 132.81,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "c3eb4b32-e414-404a-9ed7-1cc91afe121f",
+		"billId": "41423381-eb8c-4c15-a125-fd085848f03a",
+		"date": "2025-05-29T10:48:59.125Z",
+		"amount": 179.66,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "59e94021-f83d-4054-810a-1f93ddcc9ebb",
+		"billId": "d89bcd2a-79c9-43f2-831c-47574b0a40d0",
+		"date": "2024-09-25T21:26:47.186Z",
+		"amount": 717.51,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "3577b856-9174-46b8-8c24-421d00354eb7",
+		"billId": "43c7cebe-8dc8-43a8-baed-d5ef9a4ed43d",
+		"date": "2025-06-02T09:17:42.207Z",
+		"amount": 921.44,
+		"plan": "silver",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "c58bbe62-e865-44d1-a77c-688cab5d0dad",
+		"billId": "a260cc6e-c926-48f0-8a83-b7d98f2e211e",
+		"date": "2025-03-15T17:20:26.226Z",
+		"amount": 38.34,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "40f5253e-f7e5-4c46-9a7f-cd85aad07791",
+		"billId": "1c1ab0bc-4dc4-4a8e-b6f6-b7f8cd339f44",
+		"date": "2025-03-28T02:01:59.004Z",
+		"amount": 33.42,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "6a29ef82-1e66-4083-b000-337e97f7da19",
+		"billId": "91e36c47-7113-43e2-967f-197183880aac",
+		"date": "2025-02-03T00:11:38.708Z",
+		"amount": 552.28,
+		"plan": "gold",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "3db3b506-eb6e-4412-a4f6-b3f809810f73",
+		"billId": "6eb053bc-9539-45f7-a41a-847b1f84fddc",
+		"date": "2024-10-14T06:47:33.079Z",
+		"amount": 130.03,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "e7d4645c-4571-4c2e-9152-b54abd3f3846",
+		"billId": "ae92d8a6-0e64-4156-b681-70b47e4512e8",
+		"date": "2025-01-30T17:26:14.951Z",
+		"amount": 242.87,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "e16c92f5-632d-420a-9642-fd74f681a611",
+		"billId": "743934c8-9404-4c94-84dd-babbafd32304",
+		"date": "2024-10-09T06:00:13.124Z",
+		"amount": 841.43,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "d0c43313-ccb0-47a7-9f33-cccbd49de994",
+		"billId": "2e98e24b-ebaa-4960-8197-ec52422c628b",
+		"date": "2025-02-25T07:59:50.996Z",
+		"amount": 143.81,
+		"plan": "silver",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "32f55992-c1f1-46cf-8670-c9688837957d",
+		"billId": "9f469893-63a7-4e6d-bdc4-2c98f52f5e81",
+		"date": "2024-09-04T03:09:46.198Z",
+		"amount": 414.13,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "29374188-4b96-48e3-9cad-13a3472476d7",
+		"billId": "dce9e03e-804d-4142-aabe-954b59f1adaf",
+		"date": "2024-11-27T21:22:53.857Z",
+		"amount": 175.95,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "dbe9c9a6-aede-4dc7-ba69-fdb9ae37ad3c",
+		"billId": "5f9a2b08-d422-4f53-9989-d7d197ca633b",
+		"date": "2025-07-04T15:07:34.485Z",
+		"amount": 410.07,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "1fe6131d-8cd1-469c-8a84-ad69246bc541",
+		"billId": "5d796e1f-2ea7-4c48-b489-4e4273df7269",
+		"date": "2024-11-17T04:48:37.261Z",
+		"amount": 44.51,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "e29f833a-47ca-471b-9841-deb177bd04ab",
+		"billId": "c6a7561e-aa41-4af4-851b-d4b16c499c3d",
+		"date": "2024-11-17T21:56:47.762Z",
+		"amount": 777.31,
+		"plan": "platinum",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "6a91836d-2716-4c40-bfc0-b3ba38ba55a5",
+		"billId": "9bc8fb60-82e3-47e9-a8ff-f9d97e4f7e95",
+		"date": "2025-01-02T21:04:43.319Z",
+		"amount": 63.31,
+		"plan": "platinum",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "329b634d-1132-4b2d-9e74-2d94a147737c",
+		"billId": "a0803682-5306-455c-98e6-d42d39805a6b",
+		"date": "2025-05-29T23:17:29.756Z",
+		"amount": 899.49,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "d37be9fd-053e-4e70-a6a1-8faea4f54e6c",
+		"billId": "dc5c8b9c-567b-441f-9df4-bf7057b4dfde",
+		"date": "2025-05-17T04:22:32.227Z",
+		"amount": 564.25,
+		"plan": "free",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "1f1a65f0-d511-4664-807e-e9ed90f5ee6e",
+		"billId": "ab601972-ee0b-43c3-807d-f65bf88ade9e",
+		"date": "2024-11-19T07:11:40.081Z",
+		"amount": 889.82,
+		"plan": "free",
+		"status": "Active"
+	},
+	{
+		"subscriptionID": "07d322cb-9e53-485d-8d53-fdee75e27791",
+		"billId": "437bed48-023d-410e-8e1d-645928d95d13",
+		"date": "2024-08-12T05:46:22.517Z",
+		"amount": 784.58,
+		"plan": "gold",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "427f8ed5-b4da-4c8e-b4c3-f6668f222971",
+		"billId": "97c73b75-c253-4505-a36a-8f9fc6b76ab0",
+		"date": "2025-07-11T13:38:45.283Z",
+		"amount": 462.66,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "4747e894-b6d4-4341-a196-6ac784abd87a",
+		"billId": "a8f5a173-3be7-465f-9c1e-1a54b3e47df9",
+		"date": "2025-03-26T14:30:45.825Z",
+		"amount": 661.7,
+		"plan": "silver",
+		"status": "Inactive"
+	},
+	{
+		"subscriptionID": "5993649a-f874-49dd-96a1-159166eb71b1",
+		"billId": "5c66812c-0758-412e-b0ed-ace7e42e2adb",
+		"date": "2025-05-20T05:53:06.812Z",
+		"amount": 303.1,
+		"plan": "free",
+		"status": "Active"
+	}
+]
