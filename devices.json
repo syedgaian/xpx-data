@@ -1,0 +1,802 @@
+[
+	{
+		"deviceId": "c18f2f91-6431-4a87-a288-c1546edeffe3",
+		"subscriberId": "bab29cb6-6112-4505-ac8a-dfa56bb2714e",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Compromised",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "36ab29dc-f8ab-4412-8397-ef1845e07a50",
+		"subscriberId": "7aa06fbe-5e92-42ac-abcc-653fc4ed642d",
+		"deviceManagement": "personal",
+		"platform": "android",
+		"securitySignal": "Critical",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "19d096e5-04e0-44b7-a751-be89e24d9ab3",
+		"subscriberId": "cee8d18e-1a6b-4343-a702-77af5091ff48",
+		"deviceManagement": "family",
+		"platform": "ios",
+		"securitySignal": "Critical",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "84f6dad4-01ce-4cf7-93da-f417f8983b27",
+		"subscriberId": "ace0ec39-d474-4955-8ff2-2f9bccf7be4d",
+		"deviceManagement": "personal",
+		"platform": "mac",
+		"securitySignal": "Unknown",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "20163d46-be2f-4495-a1f6-747428688dd4",
+		"subscriberId": "05312161-3e28-400b-9b5f-59495145f87f",
+		"deviceManagement": "organization",
+		"platform": "android",
+		"securitySignal": "At Risk",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "23ad8b99-057b-4e75-a360-355e2ae36ee1",
+		"subscriberId": "37607c8f-36b5-4f15-88ca-2e1a4304d3c3",
+		"deviceManagement": "admin",
+		"platform": "mac",
+		"securitySignal": "At Risk",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "901c4b9c-06a5-410b-9341-c894b1c9e6a6",
+		"subscriberId": "0f2fceb0-0954-4e43-90b0-d05883054f87",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Unknown",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "f01c5754-3e8d-4e3a-a882-2f958db14267",
+		"subscriberId": "21163eb1-32d9-4618-99e5-191019105692",
+		"deviceManagement": "personal",
+		"platform": "linux",
+		"securitySignal": "Critical",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "9809c26d-0778-4f6f-8d33-160055d123af",
+		"subscriberId": "36d6b1b3-1784-4641-b123-0ae3d5f06b2d",
+		"deviceManagement": "personal",
+		"platform": "linux",
+		"securitySignal": "Critical",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "c8312c2b-6409-415b-8c19-efcd1abed19f",
+		"subscriberId": "ba9a4d27-8238-4a96-b320-61033e0e559e",
+		"deviceManagement": "family",
+		"platform": "ios",
+		"securitySignal": "At Risk",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "377acdae-5525-4ecd-89da-16dee41fb82c",
+		"subscriberId": "14ed84b4-3b72-4e2f-a53d-6663a2232825",
+		"deviceManagement": "admin",
+		"platform": "windows",
+		"securitySignal": "Under Investigation",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "3b7be62f-1441-4b16-801f-dea866641791",
+		"subscriberId": "ce387016-c6c5-4ddd-8f4d-31f2482c2f6f",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "At Risk",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "4f2688f8-c021-4ea4-a82c-8edd8821d919",
+		"subscriberId": "c984c76c-8863-4061-b602-8bc15900fb27",
+		"deviceManagement": "admin",
+		"platform": "android",
+		"securitySignal": "Compromised",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "6fa93f69-5831-4eb4-8627-16f3c3892a13",
+		"subscriberId": "ef2194eb-be44-45e9-b2ed-c7f8faa59982",
+		"deviceManagement": "family",
+		"platform": "linux",
+		"securitySignal": "Warning",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "a83f36d0-d279-47ca-943b-0f63e7db1923",
+		"subscriberId": "1ec350a0-edaa-45a3-8cb5-98da48ab6c23",
+		"deviceManagement": "family",
+		"platform": "ios",
+		"securitySignal": "Critical",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "1b010cdd-fd91-41de-a9a2-55e7c9a7e286",
+		"subscriberId": "fc081a8e-a43c-4bf2-8ebf-092017bec4f1",
+		"deviceManagement": "family",
+		"platform": "android",
+		"securitySignal": "At Risk",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "641a11a2-9240-46d1-b9fd-9e374a9b8fca",
+		"subscriberId": "59b0d8b6-9f3f-44ba-ae84-eb4b16c689f1",
+		"deviceManagement": "admin",
+		"platform": "ios",
+		"securitySignal": "Critical",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "c65ab3eb-d06f-4cb2-a8c4-dc2a04934734",
+		"subscriberId": "ceae7d33-f761-41c4-b569-a039b2d26af2",
+		"deviceManagement": "organization",
+		"platform": "mac",
+		"securitySignal": "At Risk",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "66d66798-613b-41c0-ba60-13b7eb5012f8",
+		"subscriberId": "a34eade5-a760-4c5e-b252-274be3a98eac",
+		"deviceManagement": "admin",
+		"platform": "windows",
+		"securitySignal": "Safe",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "3d0f8c71-0407-4eca-ba10-dc1cae983559",
+		"subscriberId": "2a5c8051-da4e-4765-bca9-27738a4bb16c",
+		"deviceManagement": "family",
+		"platform": "ios",
+		"securitySignal": "At Risk",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "d74f741e-e0ed-4efb-a8a5-ca9947176ed6",
+		"subscriberId": "d0c9f722-c27d-4a04-b309-a79a4d8fc849",
+		"deviceManagement": "family",
+		"platform": "mac",
+		"securitySignal": "Compromised",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "92ca5a60-3e38-48ed-8a7e-f88842feb655",
+		"subscriberId": "b400fccd-e956-4a6f-8613-03c879d9a96e",
+		"deviceManagement": "admin",
+		"platform": "ios",
+		"securitySignal": "Warning",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "ea333e0f-74b6-4307-a83b-5919cf939f73",
+		"subscriberId": "4a9a9eb6-a3cc-4a7a-8588-126dc4f9bfd8",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Compromised",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "bba7eafa-0b9b-4d3c-9de6-9756f1ed85ce",
+		"subscriberId": "f88a76f9-78f7-450c-b94f-1e5438d1e1e4",
+		"deviceManagement": "personal",
+		"platform": "mac",
+		"securitySignal": "Unknown",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "fa72af74-1d2f-401f-97ff-77525a53667e",
+		"subscriberId": "0515a896-dda4-4b1e-8fa6-6ca67ca0894e",
+		"deviceManagement": "family",
+		"platform": "linux",
+		"securitySignal": "Critical",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "21684760-c486-417d-b7f8-82082230fb53",
+		"subscriberId": "d86b45d6-3056-4623-951d-c4947c17def3",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "Safe",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "83129853-9700-4a16-8a00-a2d08c02b6c8",
+		"subscriberId": "b5921331-bff8-42b4-b1e2-02060364231e",
+		"deviceManagement": "organization",
+		"platform": "mac",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "7b50a0a8-fd1a-4f05-a27f-4dbc5b998eee",
+		"subscriberId": "a893c3fa-fdab-4540-b86a-f5ee74d8630a",
+		"deviceManagement": "family",
+		"platform": "android",
+		"securitySignal": "Compromised",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "103b20d7-d134-4c29-b74d-123e809faf1f",
+		"subscriberId": "151bd4e4-cda7-4bbd-8778-d9b2a7d38016",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "Secure",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "3dc2bc2e-cf74-4e71-981a-c2930a022dcb",
+		"subscriberId": "3cc83751-1be3-47e0-8f45-918e4eb8e763",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "Critical",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "30a2ec78-ed9c-44b2-b2b4-b41216a45e47",
+		"subscriberId": "bc5c60f1-f4c9-4f40-87a9-14c2a2a3e122",
+		"deviceManagement": "family",
+		"platform": "mac",
+		"securitySignal": "Secure",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "bf419767-4752-46ef-93d9-c771464ed544",
+		"subscriberId": "d902728b-8457-4de3-980c-be8a6fbb034c",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "fb8b7756-2a07-487a-9f01-7f9d7ffcf4c3",
+		"subscriberId": "48955f55-1b70-4d01-b312-793a1b181028",
+		"deviceManagement": "organization",
+		"platform": "linux",
+		"securitySignal": "Unknown",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "2424b46a-25c0-47bd-95a2-e8ba037b7cf3",
+		"subscriberId": "1f5eb517-a4d0-45c0-9cae-ce976de3855d",
+		"deviceManagement": "personal",
+		"platform": "windows",
+		"securitySignal": "At Risk",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "ad383c62-b686-4648-a574-37f8428a1748",
+		"subscriberId": "b3b31ef0-372b-432b-8067-a4468312beb1",
+		"deviceManagement": "personal",
+		"platform": "android",
+		"securitySignal": "Under Investigation",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "00148625-7287-47be-bf71-ca56ae58e841",
+		"subscriberId": "78fb0a2c-fea6-4903-9e7d-cb3193085648",
+		"deviceManagement": "family",
+		"platform": "mac",
+		"securitySignal": "Unknown",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "6230870e-380e-4192-90c7-0b8358fe5009",
+		"subscriberId": "f767b116-79d4-4b97-89ff-506f21086851",
+		"deviceManagement": "organization",
+		"platform": "ios",
+		"securitySignal": "Compromised",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "5a33e194-656b-4920-ba1e-e6dea0ae78da",
+		"subscriberId": "618dd02d-19ee-4e7f-a6e4-68256a8460a0",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "Safe",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "c3ca8671-d7ff-4d91-a574-1ae907d2a3f8",
+		"subscriberId": "5cbaca10-a997-45d9-811a-cac27c9ffce0",
+		"deviceManagement": "personal",
+		"platform": "android",
+		"securitySignal": "Unknown",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "c9bed52d-aad5-4dab-b3b5-a3eab71f1565",
+		"subscriberId": "fc337334-4220-4b53-803a-7c08448ce1db",
+		"deviceManagement": "personal",
+		"platform": "ios",
+		"securitySignal": "Safe",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "8739cc19-ba78-48e0-9626-1a12aa69ac5a",
+		"subscriberId": "9eb5bf51-167f-40a8-a67f-6000bfb212c4",
+		"deviceManagement": "family",
+		"platform": "linux",
+		"securitySignal": "Secure",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "dcffa78d-1023-45ad-9dac-e34bd0347f52",
+		"subscriberId": "cca73727-a952-4d6d-99e0-140e8e473348",
+		"deviceManagement": "personal",
+		"platform": "linux",
+		"securitySignal": "Safe",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "31bb362b-ad87-4770-aaba-d3d97e63129d",
+		"subscriberId": "566c1622-fbfa-416e-b5ad-44d5278fe642",
+		"deviceManagement": "organization",
+		"platform": "ios",
+		"securitySignal": "At Risk",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "f8360fcb-f2a5-4938-9b14-11964af016de",
+		"subscriberId": "e5d3b288-19ac-40ef-bebc-b4b43114431d",
+		"deviceManagement": "family",
+		"platform": "android",
+		"securitySignal": "Warning",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "05ea2033-3b64-41eb-a93b-1a21a9b99a83",
+		"subscriberId": "ab02af89-d372-4abe-a6dd-dd0cbc9f5305",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Safe",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "343b0f2c-c17b-49f6-82af-9c87400d0a13",
+		"subscriberId": "169b8f3e-bb36-4ed5-9ed0-cb16ec0309ef",
+		"deviceManagement": "family",
+		"platform": "mac",
+		"securitySignal": "Under Investigation",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "12e7fe7b-9f83-4e04-a1c1-c9e3e5926729",
+		"subscriberId": "037ddd0b-f367-4712-b2b8-ee7ae3be2df2",
+		"deviceManagement": "personal",
+		"platform": "mac",
+		"securitySignal": "Under Investigation",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "90f46fbb-0670-4782-b0ac-c2a74b674b06",
+		"subscriberId": "63040112-7b76-4d60-a339-0d17477726da",
+		"deviceManagement": "personal",
+		"platform": "windows",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "c2c80e53-27ca-441e-8d40-8ff8dfe2671c",
+		"subscriberId": "70df141a-f4a7-4674-be82-99cbfd68800e",
+		"deviceManagement": "admin",
+		"platform": "windows",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "1007723c-9168-477f-9a7b-d952c58b4f25",
+		"subscriberId": "a672bad8-cf20-4e1e-9fdb-a26b9858d705",
+		"deviceManagement": "admin",
+		"platform": "linux",
+		"securitySignal": "Warning",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "1134ea71-07cc-4d35-abff-a0692ea59816",
+		"subscriberId": "a8035917-2ddf-440d-af36-2aa2985bb28f",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Warning",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "1f72f52c-a5a4-4d50-8b9c-1e4dda24ec29",
+		"subscriberId": "b6e441b9-8cc3-4d7e-a7a8-89df9f3e0937",
+		"deviceManagement": "organization",
+		"platform": "ios",
+		"securitySignal": "Critical",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "c6c4b218-c8c2-4802-881a-6641a8175961",
+		"subscriberId": "d38d1262-cce5-4cf8-a4cc-935f8ed7322f",
+		"deviceManagement": "family",
+		"platform": "linux",
+		"securitySignal": "Unknown",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "1b9dd592-383f-42be-b2ac-2327d0e9d339",
+		"subscriberId": "57818bbc-c8db-45b1-b58c-469e1fba4e5d",
+		"deviceManagement": "admin",
+		"platform": "ios",
+		"securitySignal": "Critical",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "d30adc5c-06f3-47f5-a4f4-0d85c69f64d2",
+		"subscriberId": "1b0a8524-858d-4240-847c-2975255f023d",
+		"deviceManagement": "personal",
+		"platform": "android",
+		"securitySignal": "Compromised",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "68505357-95cb-4d25-afbf-0195104854e7",
+		"subscriberId": "bacfc5ba-ff9d-4b43-aba9-b8b17a78c950",
+		"deviceManagement": "personal",
+		"platform": "linux",
+		"securitySignal": "Unknown",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "a11c99bc-c164-45bc-ace3-0a78bede3c79",
+		"subscriberId": "11ce7d7f-938d-430a-b29a-832d21145831",
+		"deviceManagement": "admin",
+		"platform": "windows",
+		"securitySignal": "Compromised",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "30a597da-43c7-477f-96cd-892d1808a533",
+		"subscriberId": "8275e774-243a-42ca-9fb4-78aabc18bc6e",
+		"deviceManagement": "family",
+		"platform": "mac",
+		"securitySignal": "Critical",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "afc0bf03-4fac-4120-b1ac-780650147201",
+		"subscriberId": "29261899-7fc1-4f36-ace8-cac2cfb13a62",
+		"deviceManagement": "admin",
+		"platform": "mac",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "3885dbf6-9f85-4262-9ac6-fb686efc2740",
+		"subscriberId": "ecd17a66-6f43-4d8d-aad1-4baec11a5dcc",
+		"deviceManagement": "family",
+		"platform": "linux",
+		"securitySignal": "Under Investigation",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "7cd62d15-54a2-4250-8f08-82f42aa33c67",
+		"subscriberId": "8d42f743-d452-4131-89b3-79145147a532",
+		"deviceManagement": "organization",
+		"platform": "linux",
+		"securitySignal": "Compromised",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "87c736a1-41d5-4d6a-9b2b-563b15dd76ae",
+		"subscriberId": "0dc12660-d5a9-4aa4-8fa3-48eb6af7d516",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "At Risk",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "0fd0b814-fe7e-4284-855a-bb9d7ca2b911",
+		"subscriberId": "ef657025-1aca-436f-a052-1e2894ceb4ea",
+		"deviceManagement": "personal",
+		"platform": "ios",
+		"securitySignal": "Compromised",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "69930ae8-3032-4f47-bc21-2dd403f858f7",
+		"subscriberId": "d4a43adb-2cef-45c1-93b0-719fb9963dd6",
+		"deviceManagement": "personal",
+		"platform": "linux",
+		"securitySignal": "At Risk",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "1a69209a-2c7c-4d77-84a6-b61a6e161d46",
+		"subscriberId": "330609c8-3152-44b7-8424-2a93002e80d9",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "feab0625-8a87-4add-a7af-09c1064bf318",
+		"subscriberId": "65214319-3efb-4595-b1b4-08501292378b",
+		"deviceManagement": "personal",
+		"platform": "android",
+		"securitySignal": "Safe",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "cc864aa6-8411-481d-b382-71017e14acc6",
+		"subscriberId": "48ee1aa4-ff62-475b-9de1-bf616895aa63",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "Unknown",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "dd134b5f-7760-4b33-a6e7-71c14e5aad78",
+		"subscriberId": "cb1ef87a-8bae-48fc-9bac-053c74c0cd18",
+		"deviceManagement": "personal",
+		"platform": "android",
+		"securitySignal": "At Risk",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "f94cb56e-abc7-4ed2-912e-8978ffbe7f48",
+		"subscriberId": "f83c045d-9b4f-4022-b676-01786be3df55",
+		"deviceManagement": "admin",
+		"platform": "ios",
+		"securitySignal": "Safe",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "fdef6344-8c7a-4d2d-8532-9db7851d7838",
+		"subscriberId": "0d7abc54-89fd-4b28-bf8a-6bb67c7afd78",
+		"deviceManagement": "admin",
+		"platform": "ios",
+		"securitySignal": "Critical",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "87b30fc9-8099-4936-9506-a0e910fa8d35",
+		"subscriberId": "e89bfd28-7765-4a63-8a0c-a5efad4762a9",
+		"deviceManagement": "organization",
+		"platform": "android",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "bd1a7534-5369-458e-bba5-fbb2d7732ffd",
+		"subscriberId": "9fd814b3-02b3-467b-9018-133bb048c80c",
+		"deviceManagement": "organization",
+		"platform": "ios",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "cd24bd6a-3c4d-468a-9929-b6d7a05a8a51",
+		"subscriberId": "b53323b1-f7bb-48c9-92d0-3570892b2b6f",
+		"deviceManagement": "admin",
+		"platform": "mac",
+		"securitySignal": "At Risk",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "1743b953-b9e3-40c6-946d-91dd3e1e9641",
+		"subscriberId": "252956fb-b83b-4898-b9fd-7fdaa6b6fbaf",
+		"deviceManagement": "organization",
+		"platform": "mac",
+		"securitySignal": "Critical",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "aaf23d50-7cfb-459e-9ba8-6fb316d92a05",
+		"subscriberId": "422059b3-d9ca-4df1-a643-f0805e810943",
+		"deviceManagement": "family",
+		"platform": "ios",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "8d964935-cdf1-4e6e-b730-d371ae42be51",
+		"subscriberId": "33eebc65-f51a-4332-96b7-a6bf70fb57ab",
+		"deviceManagement": "organization",
+		"platform": "linux",
+		"securitySignal": "Under Investigation",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "54365a6b-d5ae-48fb-ac52-a33e541578d8",
+		"subscriberId": "3ec3d333-6f25-4dba-8b6a-db2ce0047789",
+		"deviceManagement": "family",
+		"platform": "mac",
+		"securitySignal": "Critical",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "9d27168e-1a44-4181-9c9e-57dc64152f93",
+		"subscriberId": "a5d7421a-35d1-4796-a5ac-bdf70b27f927",
+		"deviceManagement": "personal",
+		"platform": "windows",
+		"securitySignal": "Compromised",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "6024db40-b774-4680-9ca7-c189784fba77",
+		"subscriberId": "a03db1d8-c880-4db9-aed6-04a311a87bc0",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Safe",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "06262485-774a-4380-b21f-c28affd72dd9",
+		"subscriberId": "cced9807-a905-4381-8235-0eeeff416a45",
+		"deviceManagement": "admin",
+		"platform": "android",
+		"securitySignal": "Safe",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "2eeda2b6-0099-4783-b9bd-60916d63709c",
+		"subscriberId": "0df47d66-f43c-4c35-aa75-375253475466",
+		"deviceManagement": "family",
+		"platform": "linux",
+		"securitySignal": "Unknown",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "2d4a716e-94d0-468b-bdd4-bcd54f6ee278",
+		"subscriberId": "65568e7e-9a03-48e5-83ee-8c7fa2046f28",
+		"deviceManagement": "admin",
+		"platform": "windows",
+		"securitySignal": "Compromised",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "89d0ca97-1dd2-4280-a44f-f4a6ff0e7fff",
+		"subscriberId": "88e62118-0efd-41c3-a96b-2f3979f5c3c2",
+		"deviceManagement": "family",
+		"platform": "windows",
+		"securitySignal": "Warning",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "19e0817b-90b8-42c2-80fe-71a7d8cf6f88",
+		"subscriberId": "572ec54f-8550-46fc-b8ac-e70acbc2fe95",
+		"deviceManagement": "admin",
+		"platform": "ios",
+		"securitySignal": "Secure",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "8e238f2b-a5ee-4e89-b56d-84bc6462dcf3",
+		"subscriberId": "81050f10-4274-45e1-8fe5-98d3dc8120c6",
+		"deviceManagement": "admin",
+		"platform": "ios",
+		"securitySignal": "Under Investigation",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "bd9ded80-bf0b-4395-94f0-f88134c6cd4f",
+		"subscriberId": "37a8f613-781a-429a-87c4-1d86620cafd3",
+		"deviceManagement": "family",
+		"platform": "android",
+		"securitySignal": "At Risk",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "f419f435-4716-4bfc-9fab-536bbfb81718",
+		"subscriberId": "92319728-8cb6-4c9a-b7d7-4f213e5d7200",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "7c1283c2-c0a9-402a-9d4b-8a01e010278c",
+		"subscriberId": "9465c2cc-296b-427e-aaad-0c684d9decab",
+		"deviceManagement": "organization",
+		"platform": "mac",
+		"securitySignal": "Unknown",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "3eac9e57-c891-44e6-afe9-a3d5759e176b",
+		"subscriberId": "88553987-ca1f-4bfc-a427-7bee414987c9",
+		"deviceManagement": "personal",
+		"platform": "windows",
+		"securitySignal": "Warning",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "ae8c9162-50d6-49ac-b904-81f78f2eabbb",
+		"subscriberId": "cae7d3eb-9854-4212-9799-351858829e9f",
+		"deviceManagement": "admin",
+		"platform": "ios",
+		"securitySignal": "Unknown",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "00b4069f-20ca-4844-b311-147bebc3857d",
+		"subscriberId": "468cca8e-21d0-4155-928b-6db67df0cf3e",
+		"deviceManagement": "family",
+		"platform": "android",
+		"securitySignal": "Unknown",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "a134daba-f990-414d-912e-bfbdd93fcec0",
+		"subscriberId": "9b146189-7404-42a2-8d7f-5850155e6bd0",
+		"deviceManagement": "organization",
+		"platform": "windows",
+		"securitySignal": "Compromised",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "ae4c3351-af17-450d-a421-c8a6707d3197",
+		"subscriberId": "11e73adc-d60d-4298-afd8-40d9737ea558",
+		"deviceManagement": "organization",
+		"platform": "android",
+		"securitySignal": "Safe",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "8901398a-beac-4e65-80d4-dae2016323fa",
+		"subscriberId": "917c66e7-fbba-417c-a670-8f8b96f354f9",
+		"deviceManagement": "admin",
+		"platform": "mac",
+		"securitySignal": "Secure",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "fe7fefbd-9756-4976-8551-8d50578a5709",
+		"subscriberId": "2645e9f9-36b2-4a5d-8bcc-362214adce5b",
+		"deviceManagement": "personal",
+		"platform": "android",
+		"securitySignal": "Under Investigation",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "f3df8a47-ca68-4949-a29f-dc304f4e9905",
+		"subscriberId": "fe5424dc-553f-48b6-ac53-06871b1e6df5",
+		"deviceManagement": "organization",
+		"platform": "linux",
+		"securitySignal": "Unknown",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "e16e2955-c74c-4406-9af9-ec2eebb4423c",
+		"subscriberId": "8321bb72-f1ed-4c0e-8b28-6920b46d6e90",
+		"deviceManagement": "admin",
+		"platform": "linux",
+		"securitySignal": "Warning",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "79af8fae-a7a8-4b1b-a150-6c7204d62afd",
+		"subscriberId": "de210f20-3fca-4bc6-b3a3-25a4f9a131ea",
+		"deviceManagement": "organization",
+		"platform": "mac",
+		"securitySignal": "Safe",
+		"accessStatus": "Inactive"
+	},
+	{
+		"deviceId": "5f2397ab-339a-47b5-a353-086fa6e440b9",
+		"subscriberId": "eb432fa0-8104-4e7a-b161-a246ff46a43c",
+		"deviceManagement": "family",
+		"platform": "linux",
+		"securitySignal": "Compromised",
+		"accessStatus": "Active"
+	},
+	{
+		"deviceId": "1962e5c3-4633-4c47-b3c4-927dc8ecf3c2",
+		"subscriberId": "1372dd9e-e02c-458e-82f6-2f9063782d4f",
+		"deviceManagement": "personal",
+		"platform": "linux",
+		"securitySignal": "Safe",
+		"accessStatus": "Inactive"
+	}
+]

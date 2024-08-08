@@ -142,7 +142,13 @@ function createRandomSubscriptionBills() {
 	});
 }
 
-const getRandomPlatform = randomFunctionGenerator(["windows", "linux", "mac"]);
+const getRandomPlatform = randomFunctionGenerator([
+	"windows",
+	"linux",
+	"mac",
+	"android",
+	"ios",
+]);
 
 function getRandomDeviceName() {
 	const brands = [
@@ -188,24 +194,36 @@ const getRandomDeviceManagement = randomFunctionGenerator([
 	"organization",
 ]);
 
-function createRandomDeviceActivity() {
+function createRandomDevice() {
 	// biome-ignore lint/complexity/noForEach: <explanation>
 	subscriptions.forEach((sub) => {
+		communications.push({
+			deviceId: faker.string.uuid(),
+			subscriberId: sub.subscriberID,
+			deviceManagement: getRandomDeviceManagement(),
+			platform: getRandomPlatform(),
+			securitySignal: getRandomSecuritySignal(),
+			accessStatus: getRandomStatus(),
+		});
+	});
+}
+
+const devices = require("./devices.json");
+
+function createRandomActivity() {
+	// biome-ignore lint/complexity/noForEach: <explanation>
+	devices.forEach((sub) => {
 		const randomNumber = Math.floor(5 + Math.random() * 20);
 		for (let i = 0; i <= randomNumber; i++) {
 			communications.push({
-				deviceActivityId: faker.string.uuid(),
-				subscriptionId: sub.subscriptionID,
+				activityId: faker.string.uuid(),
+				deviceId: sub.deviceId,
 				subscriberId: sub.subscriberID,
-				// deviceManagement: getRandomDeviceManagement(),
 				lastLogin: faker.date.past(),
 				activity: faker.number.int({ min: 0, max: 100 }),
 				screenTime: faker.number.int({ min: 10, max: 1000 }),
 				description: faker.company.catchPhrase(),
-				// platform: getRandomPlatform(),
-				// securitySignal: getRandomSecuritySignal(),
 				fleetDistribution: faker.number.int({ min: 10, max: 20000 }),
-				// accessStatus: getRandomStatus(),
 				offTime: faker.number.int({ min: 10, max: 1000 }),
 				device: getRandomDeviceName(),
 			});
@@ -213,6 +231,6 @@ function createRandomDeviceActivity() {
 	});
 }
 
-createRandomDeviceActivity();
+createRandomActivity();
 
-fs.writeFileSync("./device-activity.json", JSON.stringify(communications));
+fs.writeFileSync("./activity.json", JSON.stringify(communications));
