@@ -83,10 +83,13 @@ function createRandomCommunication() {
 				description: faker.company.catchPhrase(),
 				communicationType: getRandomCommunicationType(),
 				representativeName: faker.person.firstName(),
+				time: faker.number.float({ min: 0, max: 24 }).toFixed(2),
 			});
 		}
 	});
 }
+
+createRandomCommunication();
 
 function getRandomFrequency() {
 	fer = ["Monthly", "Yearly", "Quarterly"];
@@ -248,6 +251,6 @@ function updateUsers() {
 	});
 }
 
-updateUsers();
+// updateUsers();
 
-fs.writeFileSync("./subscribers.json", JSON.stringify(newSubs));
+fs.writeFileSync("./communication.json", JSON.stringify(communications));
