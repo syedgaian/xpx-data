@@ -231,6 +231,23 @@ function createRandomActivity() {
 	});
 }
 
-createRandomActivity();
+const getRandomPreferredMode = randomFunctionGenerator([
+	"credit-card",
+	"debit-card",
+	"net-banking",
+	"auto-pay",
+]);
 
-fs.writeFileSync("./activity.json", JSON.stringify(communications));
+let newSubs = [];
+function updateUsers() {
+	subs.forEach((sub) => {
+		newSubs.push({
+			...sub,
+			preferredMode: getRandomPreferredMode(),
+		});
+	});
+}
+
+updateUsers();
+
+fs.writeFileSync("./subscribers.json", JSON.stringify(newSubs));
