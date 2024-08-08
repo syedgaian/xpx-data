@@ -89,7 +89,7 @@ function createRandomCommunication() {
 	});
 }
 
-createRandomCommunication();
+// createRandomCommunication();
 
 function getRandomFrequency() {
 	fer = ["Monthly", "Yearly", "Quarterly"];
@@ -246,11 +246,12 @@ function updateUsers() {
 	subs.forEach((sub) => {
 		newSubs.push({
 			...sub,
-			preferredMode: getRandomPreferredMode(),
+			firstName: faker.person.firstName(),
+			lastName: faker.person.lastName(),
 		});
 	});
 }
 
-// updateUsers();
+updateUsers();
 
-fs.writeFileSync("./communication.json", JSON.stringify(communications));
+fs.writeFileSync("./subscribers.json", JSON.stringify(newSubs));
