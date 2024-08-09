@@ -134,17 +134,31 @@ function createRandomSubscriptionDetails() {
 function createRandomSubscriptionBills() {
 	// biome-ignore lint/complexity/noForEach: <explanation>
 	subscriptions.forEach((sub) => {
+		const randomNumber = Math.floor(2 + Math.random() * 5);
+		for (let i = 0; i < randomNumber; i++) {
+			communications.push({
+				subscriptionID: sub.subscriptionID,
+				billId: faker.string.uuid(),
+				date: sub.nextChargeDate,
+				amount: sub.amount,
+				plan: sub.planName,
+				status: sub.status,
+			});
+		}
+	});
+}
+const getRandomPaymentStatus2 = randomFunctionGenerator(["success", "failed"]);
+const subsBills = require("./subscription-bill.json");
+function updateSubscriptionBill() {
+	subsBills.forEach((sub) => {
 		communications.push({
-			subscriptionID: sub.subscriptionID,
-			billId: faker.string.uuid(),
-			date: sub.nextChargeDate,
-			amount: sub.amount,
-			plan: sub.planName,
-			status: sub.status,
+			...sub,
+			date: faker.date.past(),
 		});
 	});
 }
-
+// updateSubscriptionBill();
+// createRandomSubscriptionBills();
 const getRandomPlatform = randomFunctionGenerator([
 	"windows",
 	"linux",
@@ -252,6 +266,40 @@ function updateUsers() {
 	});
 }
 
-updateUsers();
+const getRadomRenewalMode = randomFunctionGenerator(["manual", "recurring"]);
 
-fs.writeFileSync("./subscribers.json", JSON.stringify(newSubs));
+function createRandomSubscriptionLifecycle() {
+	// biome-ignore lint/complexity/noForEach: <explanation>
+	subscriptions.forEach((sub) => {
+		communications.push({
+			subscriberId: sub.subscriberID,
+			subscriptionID: sub.subscriptionID,
+			lastLogin: faker.date.past(),
+			renewalMode: faker.date.future(),
+			renewalType: getRandomFrequency(),
+			holidayModeStatus: getRandomStatus(),
+			cancellationRequest: String(faker.datatype.boolean()),
+			onboardedDate: faker.date.past(),
+			subscriptionLifecycleID: faker.string.uuid(),
+			lastHolidayMode: faker.date.past(),
+			devicesLogged: faker.number.int({ min: 0, max: 10 }),
+			status: getRandomStatus(),
+		});
+	});
+}
+
+const lifeCycles = require("./subscription-lifecycle.json");
+let newlfs = [];
+
+function updateLifeCycle() {
+	lifeCycles.forEach((lf) => {
+		newlfs.push({
+			...lf,
+			renewalMode: getRadomRenewalMode(),
+		});
+	});
+}
+
+updateLifeCycle();
+
+fs.writeFileSync("./subscription-lifecycle.json", JSON.stringify(newlfs));
